@@ -17,7 +17,7 @@
 I am a security analyst with an attacker's mindset and a defender's mission. With over 5 years of experience across SOC operations, threat detection, and penetration testing, I specialize in engineering resilient defenses and mitigating vulnerabilities before adversaries can exploit them. 
 
 - 🛡️ **Expertise:** SIEM/EDR, Incident Response, Penetration Testing, Cloud Security, and GRC.
-- 🎓 **Education:** Post-Graduate in Cybersecurity & AI Design (Honors) @ Durham College.
+- 🎓 **Education:** Post-Graduate in Cybersecurity & AI Design (Honors).
 
 > **🤝 Let's Connect:** Always down to collaborate on interesting security projects, share threat intel, or talk shop. **[Drop me a line!](mailto:admin@ritikpatel.me)**
 
