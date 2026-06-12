@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ritik+Patel+👋;Cyber+Security+Analyst;Penetration+Tester;Threat+Hunter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hi+there,+I+am+Ritik+Patel;Cyber+Security+Analyst;Penetration+Tester;Threat+Hunter" alt="Typing SVG" />
   
   <p><i>I specialize in finding vulnerabilities before the bad guys do, and building tools to make offensive and defensive operations faster.</i></p>
 
